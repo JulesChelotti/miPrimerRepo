@@ -1,0 +1,15 @@
+tik
+.
+.
+.
+tik
+.
+.
+.
+achu...
+
+titulo = "xd"
+
+print(titulo)
+
+
